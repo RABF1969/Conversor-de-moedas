@@ -12,4 +12,4 @@ Esse foi mais um projeto que eu aprendi no <a href="https://rodolfomori.com.br/d
 
 <p>Projeto responsivo em telas de celulares.</p>
 
-<img width="700px" src="https://github.com/RABF1969/wide-coverage-lacation/blob/main/img/desktop.jpg"/>
+<img width="700px" src="https://github.com/RABF1969/Conversor-de-moedas/blob/main/assets/JavaScript-Desafio1.png"/>
