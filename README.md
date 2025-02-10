@@ -6,8 +6,9 @@ Esse foi mais um projeto que eu aprendi no <a href="https://rodolfomori.com.br/d
 
 <h2>Tecnologias utilizadas</h2>
   
-  - <img height="22" width="22" src="https://cdn.simpleicons.org/html5/#F7DF1E" alt="html-logo"/> 
-  - <img height="22" width="22" src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3-logo"/> 
+  -  HTML
+  -  CSS
+  -  JavaScript
 
 <p>Projeto responsivo em telas de celulares.</p>
 
