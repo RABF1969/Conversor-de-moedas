@@ -1,6 +1,8 @@
 ## Conversor de moedas
 
-Esse foi mais um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>
+
+Esse foi mais um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub" target="_blank" rel="noopener noreferrer">DevClub</a>
+
 
 <a href="https://conversor-de-moedas-five-psi.vercel.app" target="_blank">Link do projeto</a>
 
